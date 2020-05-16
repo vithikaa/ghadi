@@ -1,11 +1,11 @@
 {
   "name": "ghadi",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Tabletop Clock",
   "productName": "Ghadi",
   "cordovaId": "org.cordova.quasar.app",
   "capacitorId": "",
-  "author": "krushndayshmookh <krushndayshmookh@gmail.com>",
+  "author": "vithikaa <vithikajha14@gmail.com>",
   "private": true,
   "scripts": {
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore ./",
